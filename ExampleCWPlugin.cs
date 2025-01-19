@@ -67,5 +67,5 @@ public class ExampleSetting : FloatSetting, IExposedSetting
 
     public string GetDisplayName() => "Example mod setting";
 
-    Debug.Log("MUSTARDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD")
+    Debug.Log("MUSTARDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD");
 }
